@@ -26,13 +26,13 @@ Single table `Schedario1`; photographs and payment sheets were stored as OLE obj
 
 ## Technology
 
-Microsoft Access 2010+ format (.accdb), queries and reports without VBA.
+db, 2010+ format (.accdb), queries and reports without VBA.
 
 ## Repository contents
 
 | Path | Content |
 |---|---|
-| `database/` | The Access application, emptied of all data. |
+| `database/` | The database application, emptied of all data. |
 | `source/` | Plain-text export (UTF-8) of forms, reports, macros, VBA modules (`SaveAsText`) and of the SQL of every query. |
 | `docs/schema.md` | Tables and fields. |
 
@@ -42,8 +42,8 @@ The database is published **empty**: every table has been emptied and the file c
 
 ## Related repositories
 
-- [reception-community-minors-access](https://github.com/massimosbarbaro/reception-community-minors-access)
-- [unaccompanied-minors-monitoring-access](https://github.com/massimosbarbaro/unaccompanied-minors-monitoring-access)
+- [reception-community-minors-db](https://github.com/massimosbarbaro/reception-community-minors-db)
+- [unaccompanied-minors-monitoring-db](https://github.com/massimosbarbaro/unaccompanied-minors-monitoring-db)
 
 ## How to cite
 
